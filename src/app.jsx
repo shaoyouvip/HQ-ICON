@@ -412,7 +412,7 @@ class App extends Component {
                     <div className="center">
                         <div className="footer-content">
                             <div className="copyright">
-                                Copyright © 2024 - <a href='https://blog.aizrf.com/'>Blog</a>
+                                <a href='https://blog.aizrf.com/'>Blog</a>
                             </div>
                             <a
                                 href="https://github.com/YuKongA/HQ-ICON"
